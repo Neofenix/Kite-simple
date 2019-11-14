@@ -34,7 +34,7 @@
       "browserName": "chrome",
       "version": "78",
       "platform": "localhost",
-      "headless": false
+      "headless": true
     }
   ]
 }

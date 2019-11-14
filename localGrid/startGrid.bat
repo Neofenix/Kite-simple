@@ -1,6 +1,8 @@
 @echo off 
-cd C:\Users\jzapa\Documents\Verb\KITE\localGrid\hub 
+cd ..\localGrid\hub 
 start startHub.bat 
-cd C:\Users\jzapa\Documents\Verb\KITE\localGrid\chrome 
+cd ..\chrome 
 start startNode.bat 
 exit 
+
+
